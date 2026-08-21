@@ -1,68 +1,82 @@
-# Hey, I'm Humaira 👋
-
-AI student building projects with Python, Machine Learning, and Data Science.
-
-I like learning by actually building things — from working with datasets to experimenting with ML models and AI applications.
+# Humaira Rajar — AI Student | Machine Learning
 
 ### About Me
 
-- 🎓 AI Student
-- 🐍 Python
-- 🤖 Machine Learning & AI
-- 📊 Data Analysis
-- 🛰️ Currently working on a GNSS + ML project
-- 💻 Always learning something new
+I’m an **AI student** interested in building practical solutions using **Machine Learning, Data Science, and Artificial Intelligence**.
 
-### Tech Stack
+My work focuses on developing data-driven applications, experimenting with machine learning models, and exploring how AI can be applied to real-world problems.
 
-**Languages & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Machine Learning**
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Projects
-
-**🤖 CSV into AI Chatbot**  
-An AI application for interacting with CSV datasets using natural language.
-
-`Python` `Pandas` `Streamlit` `AI`
-
-**🛰️ AI-Driven GNSS Positioning**  
-Using Machine Learning and Adaptive Kalman Filtering to improve GNSS positioning accuracy.
-
-`Python` `LSTM` `Machine Learning` `Kalman Filter` `GNSS`
-
-### Currently Exploring
-
-`Deep Learning` · `Computer Vision` · `AI` · `Data Science`
+I enjoy working through the complete process of a project — from **data preprocessing and analysis to model development, evaluation, and application**.
 
 ---
 
-> Learning by building. Building to get better. 🚀
+### Technical Expertise
 
-<!--
-**humairarajar/humairarajar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Languages:** Python
+- **Data & Analysis:** Pandas, NumPy, Matplotlib
+- **Machine Learning:** Scikit-learn, Regression, Classification, Model Evaluation
+- **Deep Learning:** LSTM, Neural Networks
+- **AI:** Machine Learning, Artificial Intelligence
+- **Tools:** Jupyter Notebook, Google Colab, Git, GitHub, VS Code
+- **Application Development:** Streamlit
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+#### CSV into AI Chatbot — AI-Powered Data Interaction
+
+An AI-based application that allows users to interact with CSV datasets through natural language.
+
+- Upload and work with structured CSV datasets.
+- Process and analyze data using Python and Pandas.
+- Allows users to ask questions about their data.
+- Designed to make dataset exploration easier through an AI-based interface.
+- Built with a focus on practical data analysis and accessibility.
+
+**Tech Stack:** Python, Pandas, AI, Streamlit
+
+---
+
+#### AI-Driven GNSS Positioning — Machine Learning for Navigation
+
+A research-oriented project focused on improving **GNSS positioning accuracy** using Machine Learning and filtering techniques.
+
+- Works with GNSS positioning data from different positioning methods.
+- Performs data preprocessing, cleaning, and dataset integration.
+- Uses **LSTM-based learning** to model positioning errors.
+- Implements an **Adaptive Kalman Filter** for position refinement.
+- Evaluates predicted positioning against high-accuracy reference coordinates.
+- Focused on improving positioning accuracy for dynamic vehicle navigation.
+
+**Tech Stack:** Python, Pandas, NumPy, Machine Learning, LSTM, Adaptive Kalman Filter, GNSS
+
+---
+
+### Currently Exploring
+
+- Machine Learning
+- Deep Learning
+- Data Science
+- Computer Vision
+- Artificial Intelligence
+- Model Optimization
+
+---
+
+### Development Focus
+
+**Machine Learning • Artificial Intelligence • Data Science • Deep Learning • Applied AI • Real-World Problem Solving**
+
+---
+
+### Connect With Me
+
+- [LinkedIn](www.linkedin.com/in/humaira-rajar-784b8432a)
+- [GitHub](https://github.com/humairarajar)
+
+---
+
+### Philosophy
+
+> **Learn the fundamentals. Build real projects. Keep improving.**
