@@ -84,7 +84,7 @@ A Retrieval-Augmented Generation project focused on document-based question answ
 
 ---
 
-#### 📊 [CSV Chat — AI-Powered Data Analysis](https://github.com/humairarajar/CSV-into-Ai-chatbot)
+#### 🤖 [CSV Chat — AI-Powered Data Analysis](https://github.com/humairarajar/CSV-into-Ai-chatbot)
 
 An AI-powered application that allows users to upload CSV files and ask questions about their data using natural language.
 
@@ -95,10 +95,7 @@ An AI-powered application that allows users to upload CSV files and ask question
 - Handles invalid and ambiguous queries.
 - Developed incrementally over 14 days with daily GitHub commits.
 
-**Tech Stack:** Python, Streamlit, Pandas, Groq API, Llama Models, Matplotlib
-
----
-
+**Tech Stack:** Python, Flask, Pandas, Groq API, Llama Models, Matplotlib
 ### 🚧 Currently Building
 
 #### 🛰️ AI-Driven GNSS Positioning
