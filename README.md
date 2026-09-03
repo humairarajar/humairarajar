@@ -2,11 +2,11 @@
 
 ### About Me
 
-I’m an **AI student** interested in building practical applications with
+I’m an **AI student** interested in building practical applications using
 **Machine Learning, Artificial Intelligence, and Data Science**.
 
 My projects include **end-to-end ML pipelines, AI-powered applications,
-RAG systems, and research-oriented machine learning solutions**.
+RAG systems, data analysis tools, and research-oriented machine learning solutions**.
 
 I enjoy working across the development process — from data preprocessing
 and model development to experimentation, evaluation, and deployment.
@@ -20,7 +20,7 @@ and model development to experimentation, evaluation, and deployment.
 - **Deep Learning:** Neural Networks, LSTM
 - **Generative AI:** LLMs, RAG, AI-powered applications
 - **Data & Analysis:** Pandas, NumPy, Matplotlib
-- **AI Applications:** Document Intelligence, AI Code Analysis, Chatbots
+- **AI Applications:** Document Intelligence, AI Code Analysis, Chatbots, Data Analysis
 - **Frameworks:** FastAPI, Flask, Streamlit
 - **ML Engineering:** MLflow, Model Evaluation, Experiment Tracking
 - **Tools:** Git, GitHub, Jupyter Notebook, Google Colab, VS Code
@@ -41,6 +41,7 @@ An end-to-end machine learning system for predicting loan default risk.
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost, MLflow, FastAPI
 
+---
 
 #### 🤖 [AI Code Reviewer](https://github.com/humairarajar/AiCodeReviewer)
 
@@ -50,10 +51,11 @@ A Flask-based application combining static code analysis with AI-powered code re
 - Performs code quality and complexity analysis.
 - Uses Radon for complexity and maintainability analysis.
 - Integrates an LLM to identify potential bugs and suggest improvements.
-- Generates categorized review reports.
+- Generates categorized code review reports.
 
 **Tech Stack:** Python, Flask, Radon, AST, Groq API, LLM
 
+---
 
 #### 📄 [Smart Document Insights](https://github.com/humairarajar/docInsights)
 
@@ -67,17 +69,33 @@ An AI-powered Retrieval-Augmented Generation system for interacting with PDF doc
 
 **Tech Stack:** Python, LangChain, HuggingFace, Sentence Transformers, FAISS, Streamlit
 
+---
 
 #### 🤖 [RAG ChatBot](https://github.com/humairarajar/RagChatBot)
 
-A Retrieval-Augmented Generation project focused on connecting document
-data with AI-powered question answering.
+A Retrieval-Augmented Generation project focused on document-based question answering.
 
 - Implements document ingestion and retrieval components.
-- Works with vector-based document search.
-- Includes model and database utilities for the RAG workflow.
+- Uses vector-based document search.
+- Integrates language models into the RAG workflow.
+- Explores the connection between document retrieval and AI-generated responses.
 
 **Tech Stack:** Python, RAG, Embeddings, Vector Search, LLMs
+
+---
+
+#### 📊 [CSV Chat — AI-Powered Data Analysis](https://github.com/humairarajar/CSV-into-Ai-chatbot)
+
+An AI-powered application that allows users to upload CSV files and ask questions about their data using natural language.
+
+- Ask questions about CSV data in plain English.
+- AI-powered data analysis and question answering.
+- Automatic chart generation.
+- Session-based chat history.
+- Handles invalid and ambiguous queries.
+- Developed incrementally over 14 days with daily GitHub commits.
+
+**Tech Stack:** Python, Streamlit, Pandas, Groq API, Llama Models, Matplotlib
 
 ---
 
@@ -98,21 +116,6 @@ using Machine Learning and Adaptive Kalman Filtering.
 
 **Tech Stack:** Python, Pandas, NumPy, LSTM, Machine Learning,
 Adaptive Kalman Filter, GNSS
-
-
-#### 🤖 CSV into AI Chatbot
-
-An AI-powered application for interacting with CSV datasets through
-natural language.
-
-**Current Work:**
-
-- CSV data processing
-- AI-based question answering
-- Data analysis
-- Streamlit interface
-
-**Tech Stack:** Python, Pandas, Streamlit, AI
 
 ---
 
