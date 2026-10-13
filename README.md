@@ -135,14 +135,14 @@ MLOps • AI Applications • Applied Research • Autonomous Navigation**
 
 ---
 
-### Currently Exploring
+### Currently Exploring 
 
 **Machine Learning · Deep Learning · Generative AI · RAG · Model Deployment ·
 MLOps · AI Research**
 
 ---
 
-### Connect With Me
+### connect with me 
 
 [LinkedIn](https://www.linkedin.com/in/humaira-rajar-784b8432a/) •
 [GitHub](https://github.com/humairarajar)
